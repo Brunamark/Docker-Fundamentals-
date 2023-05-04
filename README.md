@@ -1,2 +1,2 @@
-# Docker-Fundamentals-
-Docker Fundamentals Projects and Notes
+# Docker Fundamentals Repository 
+Docker Fundamentals Projects and Notes.
